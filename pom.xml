@@ -17,7 +17,7 @@
    
   </dependencies>
   <build>
-    <finalName>benhurapp</finalName>
+    <finalName>bakkiapp</finalName>
     <plugins>
       <plugin>
         <groupId>org.apache.maven.plugins</groupId>
